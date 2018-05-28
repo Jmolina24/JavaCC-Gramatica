@@ -1,0 +1,26 @@
+Programa test
+{
+	public static void Main() 
+	{		
+		istr s1 = "hola";
+
+		ichr c1 = '3', c2;		
+		
+		inum n1 = 0, n2 = 2, n3 = 2, x;		
+		
+		idec d1;
+				
+
+
+
+		n1 = s1 + 2;
+		n1 = 2 + 3 + 4 c1;
+		c1= s1 + "hola";
+			
+	}
+}
+
+
+s1= entero
+c= caracter
+num= numero
