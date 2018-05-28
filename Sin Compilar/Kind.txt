@@ -1,0 +1,1 @@
+<INT> {system.ou.print("kind " + token.kind)}
