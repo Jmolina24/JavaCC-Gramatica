@@ -75,7 +75,7 @@ public class Gui extends javax.swing.JFrame {
         });
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 120, 80, -1));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Jmolina24\\Downloads\\bloggif_5b0c9f3983b13.jpeg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Analizador/cuc.jpeg"))); // NOI18N
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 10, 110, 80));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 500, 380));
